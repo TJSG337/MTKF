@@ -18,6 +18,12 @@ The updated code for implementing MTKF is displayed below:
 2. Updated C3MA in [comment.py]()
 3. Updated framework configs in [models/hub]()
 
+Implement commend
+```bash
+sh train.sh
+sh test.sh
+```
+
 ## Reference
 - https://github.com/ultralytics/yolov5
 - https://github.com/TexasInstruments/edgeai-yolov5/tree/yolo-pose  
