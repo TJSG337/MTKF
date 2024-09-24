@@ -5,7 +5,7 @@ This repository is a PyTorch implementation of our paper: A Unified Object and K
 > We will release the corresponding source after acceptance.
 
 ## Installation
-This code is based on [YOLOv5](https://github.com/ultralytics/yolov) and [YOLO-pose](https://github.com/TexasInstruments/edgeai-yolov5/tree/yolo-pose). Please install the required dependencies, and you can also refer to their preparation tutorials as a reference.
+This code is based on [YOLOv5](https://github.com/ultralytics/yolov) and [YOLO-pose]([https://github.com/TexasInstruments/edgeai-yolov5/tree/yolo-pose](https://arxiv.org/abs/2204.06806)). Please install the required dependencies, and you can also refer to their preparation tutorials as a reference.
 
 ## Data prepation
 Some data prepation scripts can be found in `utils/data_process`.  
@@ -26,5 +26,5 @@ sh test.sh
 
 ## Reference
 - https://github.com/ultralytics/yolov5
-- https://github.com/TexasInstruments/edgeai-yolov5/tree/yolo-pose  
+- https://arxiv.org/abs/2204.06806  
 ...
