@@ -18,7 +18,7 @@ The updated code for implementing MTKF is displayed below:
 
 
 ## Reference
-- Yang, Bin, Hongru Xiao, and Binghan Zhang. "A unified object and keypoint detection framework for Personal Protective Equipment use." Developments in the Built Environment (2024): 100559.
+- Yang B, Xiao H, Zhang B. A unified object and keypoint detection framework for Personal Protective Equipment use[J]. Developments in the Built Environment, 2024: 100559.
 - https://github.com/ultralytics/yolov5
 - D. Maji, S. Nagori, M. Mathew, D. Poddar, YOLO-Pose: Enhancing YOLO for Multi Person Pose Estimation Using Object Keypoint Similarity Loss, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2022: pp. 2637–2646.
 - M. Park, D.Q. Tran, J. Bak, S. Park, Small and overlapping worker detection at construction sites, Automation in Construction 151 (2023) 104856. https://doi.org/10.1016/j.autcon.2023.104856. 
